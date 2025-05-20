@@ -1,4 +1,4 @@
-# 🎧 DJ-Radyo: Duyguya Göre DJ Anonsu + Şarkı + Renk Teması
+# 🎧 DJ-Radyo
 
 DJ-Radyo, kullanıcının seçtiği ruh haline göre yapay zeka destekli DJ anonsları üreten, duygusal uyumlu şarkılar ve renk temaları öneren bir web uygulamasıdır.  
 Bu proje, `flan-t5-small` modeli üzerine Türkçe olarak fine-tune edilmiş bir model ile geliştirilmiştir.
@@ -102,4 +102,4 @@ interface.launch(share=True)
 
 **Beyza Şahin**  
 OSTİM Teknik Üniversitesi — Yapay Zeka Mühendisliği  
-2024 Final Projesi
+2025 Üretken Yapay Zeka Final Projesi
