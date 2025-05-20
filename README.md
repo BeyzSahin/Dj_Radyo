@@ -44,10 +44,9 @@ drive.mount('/content/drive')
 
 ```
 📁 dj_radyo
-├── app.py                        # Gradio arayüz ve sistem fonksiyonu
+├── DJ_RADYO.py                  # Gradio arayüz ve sistem fonksiyonu
 ├── sarki_veritabani.py          # Duyguya göre şarkı verileri
-├── renk_anlam.py                # Renk - duygu eşleşmeleri ve anlamlar
-├── dj_model_flan_t5/            # Fine-tuned Türkçe T5 modeli
+├── Model_Eğitim.py              # Fine-tuned Türkçe T5 modeli
 └── README.md                    # Proje tanıtımı
 ```
 
